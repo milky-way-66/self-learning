@@ -1,0 +1,30 @@
+---
+description: After finishing work notes/essays/practice, run the English writing review skill
+globs: work/**/*.md,reflections/**/*.md
+alwaysApply: false
+---
+
+# Review English after writing
+
+This repo’s learning English goal needs production feedback. Writing in `work/` and `reflections/` is practice.
+
+## When to run a review
+
+After any of these, **read and follow** `.cursor/skills/review-english-writing/SKILL.md` on the file just written or edited:
+
+- The user says they finished a note, essay, or practice file
+- The user asks to check off a todo because the file exists
+- You helped draft or substantially edit English prose in a matching file and the writing turn is done
+
+Skip review when:
+
+- The file is under `work/_templates/` or is only `.gitkeep`
+- The user is still mid-draft and asks a question (wait until they finish)
+- The user explicitly says not to review
+- You already reviewed this same content in the current turn
+
+## How
+
+1. Open/read the finished file.
+2. Follow `review-english-writing` exactly (report-only unless they ask to apply fixes).
+3. Keep the review short enough to teach; do not rewrite the whole file unsolicited.

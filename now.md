@@ -28,6 +28,7 @@ A week does not have to treat every goal equally. It does have to name which goa
 ### English
 
 - [ ] practice Speak 5–10 minutes **in English**: explain one outline section as if teaching (private rehearsal / recording). Not the VN seminar itself — serves this goal by: work speaking on real content → `work/english/practice/2026-09-0X-handbook-english-rehearsal.md`
+- [ ] notes Learn how to write an essay: in my own words, what an essay is here (introduction → body → conclusion), how it differs from notes, and the steps I will use for my first one — serves this goal by: unlocks work writing I can reuse on DevOps essays and docs → `work/english/notes/2026-09-03-how-to-write-essay.md`
 - [ ]
 
 ## Next

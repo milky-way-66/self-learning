@@ -15,7 +15,7 @@ Every file is one of these. Pick before you start. Copy the matching template fr
 | Kind | What you do | Not this |
 | --- | --- | --- |
 | **Notes** | After you read, watch, or listen, write it in your own words. What it is, why it matters for the goal, what you still don’t understand. | Highlights, copied paragraphs, a bookmark list. |
-| **Essay** | Write to think. Argue something, explain it as if teaching, or connect two ideas. Longer than notes. | A diary of “I studied today,” or a summary that never takes a position. |
+| **Essay** | Write to think. Argue something (introduction → body → conclusion), explain it as if teaching, or connect two ideas. Longer than notes. | A diary of “I studied today,” or a summary that never takes a position. |
 | **Practice** | Do the thing. A lab, a config, a command you ran, a speaking or writing drill. Record what you tried, what happened, what you would do next time. | “I should try X” with no attempt. |
 
 DevOps, English, and NomStamp use the same three kinds. The goal changes the material, not the shape.
