@@ -1,6 +1,6 @@
 # Practice
 
-- **Goal:** DevOps / English
+- **Goal:** DevOps / English / NomStamp
 - **Date:** YYYY-MM-DD
 - **Serves this goal by:**
 

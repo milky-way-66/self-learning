@@ -1,6 +1,6 @@
 # Notes
 
-- **Goal:** DevOps / English
+- **Goal:** DevOps / English / NomStamp
 - **Date:** YYYY-MM-DD
 - **Source:** _(book, article, video, course — title + link if any)_
 - **Serves this goal by:**

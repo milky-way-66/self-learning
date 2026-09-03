@@ -14,8 +14,9 @@ See [goal.md](goal.md). Fill those sections before you make todos.
 
 1. **Learn DevOps**
 2. **Learn English**
+3. **NomStamp (iOS)** — 100 returning users
 
-Keep the list small and named. A week does not have to treat both equally. It does have to name which goals it is for. A new interest waits in Captures on [now.md](now.md) until a weekly reflection says it is a goal.
+A week does not have to treat every goal equally. It does have to name which goals it is for. A new interest waits in Captures on [now.md](now.md) until a weekly reflection says it is a goal. The **9–5 SWE job** is a practice channel for DevOps/English (learn from work, or shift work to learn more) — not a separate goal. Evidence still goes in `work/`.
 
 ---
 
@@ -70,7 +71,8 @@ Path: `work/<goal>/<kind>/YYYY-MM-DD-slug.md`. Copy from `work/_templates/`. Ful
 └── work/
     ├── _templates/           # notes / essay / practice
     ├── devops/notes|essays|practice/
-    └── english/notes|essays|practice/
+    ├── english/notes|essays|practice/
+    └── nomstamp/notes|essays|practice/
 ```
 
 Markdown only. No issue backlog, no far-horizon plan.

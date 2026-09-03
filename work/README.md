@@ -18,7 +18,7 @@ Every file is one of these. Pick before you start. Copy the matching template fr
 | **Essay** | Write to think. Argue something, explain it as if teaching, or connect two ideas. Longer than notes. | A diary of “I studied today,” or a summary that never takes a position. |
 | **Practice** | Do the thing. A lab, a config, a command you ran, a speaking or writing drill. Record what you tried, what happened, what you would do next time. | “I should try X” with no attempt. |
 
-English and DevOps use the same three kinds. The goal changes the material, not the shape.
+DevOps, English, and NomStamp use the same three kinds. The goal changes the material, not the shape.
 
 ---
 
@@ -34,7 +34,11 @@ work/
 │   ├── notes/
 │   ├── essays/
 │   └── practice/
-└── english/
+├── english/
+│   ├── notes/
+│   ├── essays/
+│   └── practice/
+└── nomstamp/
     ├── notes/
     ├── essays/
     └── practice/
@@ -42,7 +46,7 @@ work/
 
 Name: `YYYY-MM-DD-short-slug.md`
 
-Examples: `devops/notes/2026-09-03-k8s-probes.md`, `english/essays/2026-09-04-why-i-avoid-speaking.md`, `devops/practice/2026-09-05-nginx-tls.md`
+Examples: `devops/notes/2026-09-03-k8s-probes.md`, `english/essays/2026-09-04-why-i-avoid-speaking.md`, `nomstamp/practice/2026-09-05-retention-invite.md`
 
 ---
 

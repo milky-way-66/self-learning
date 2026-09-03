@@ -16,6 +16,7 @@ Restate each current goal without looking at `goal.md`. Then look. If they do no
 
 - **DevOps:**
 - **English:**
+- **NomStamp:**
 - **Any other goal I treated as real this week, unofficially:**
 
 >
@@ -27,6 +28,7 @@ Facts. What I read, wrote, built, skipped. Group by goal.
 
 - **DevOps:**
 - **English:**
+- **NomStamp:**
 - **Neither:**
 
 
@@ -36,6 +38,7 @@ Point at files in `work/`, or write: nothing did.
 
 - **DevOps:**
 - **English:**
+- **NomStamp:**
 
 
 ## 4. Fake progress
@@ -54,6 +57,7 @@ If I cannot explain it simply, I did not learn it yet.
 
 - **DevOps:**
 - **English:**
+- **NomStamp:**
 
 
 ## 7. Are these still the right goals?
@@ -63,6 +67,10 @@ If I cannot explain it simply, I did not learn it yet.
 - [ ] No — it is clearly wrong.
 
 **English**
+- [ ] Yes — keep it.
+- [ ] No — it is clearly wrong.
+
+**NomStamp**
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 

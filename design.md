@@ -2,7 +2,7 @@
 
 The center of this system is **your current goals**. Everything else exists to serve them.
 
-You can hold more than one. Right now that means **learn DevOps** and **learn English**. Keep the list small and named. A pile of themes is not a set of goals.
+You can hold more than one. Right now that means **learn DevOps**, **learn English**, and **NomStamp** (100 returning users). Keep the list small and named. A pile of themes is not a set of goals.
 
 The core practice is to **keep questioning yourself** and **keep the goals in view**. Reading, essays, experiments, and other tasks are how you learn — they are not the point by themselves. If a task does not serve a named goal, it does not belong in the week.
 
@@ -18,7 +18,7 @@ The core practice is to **keep questioning yourself** and **keep the goals in vi
 
 Weekdays you open `now.md`. Optional mid-week captures live there if something hits you. They are never required.
 
-A week does not have to treat every goal equally. It does have to name which goals it is for, and it must not invent a third unofficial goal as “just this once.”
+A week does not have to treat every goal equally. It does have to name which goals it is for, and it must not invent an unofficial goal as “just this once.”
 
 ---
 
@@ -35,7 +35,8 @@ A week does not have to treat every goal equally. It does have to name which goa
 └── work/                     # Learning output — see work/README.md
     ├── _templates/           # notes / essay / practice
     ├── devops/notes|essays|practice/
-    └── english/notes|essays|practice/
+    ├── english/notes|essays|practice/
+    └── nomstamp/notes|essays|practice/
 ```
 
 Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no daily logs.
@@ -47,6 +48,7 @@ Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no dai
 - **Named goals only.** Each goal gets a section in `goal.md`. Do not let a new interest become a goal mid-week. Park it in Captures and decide on Sunday.
 - **This week is the plan.** The stash is a reminder so Sunday is not empty. It is not a backlog. Cap it at 3–5 items. Delete freely.
 - **Every todo is tagged to one goal** and says how it serves that goal. If you cannot say it in one line, it does not go on the list.
+- **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps or English when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English. A normal day with no file in `work/` does not count.
 - **The weekly session is the calibration.** You question yourself, you question the week, you question each goal. Default is to keep a goal. You change it only when the answer is clearly no.
 - **Output in `work/` is the evidence.** A checked box without a notes, essay, or practice file does not count. Bookmarks and copied text do not count.
 
