@@ -1,6 +1,6 @@
 # Work
 
-This folder is **the learning, written down**. Goals live in `goal.md`. The week lives in `now.md`. `work/` is what you produced.
+This folder is **the learning, written down**. Goals live in `goals/` (index: `goal.md`). The week lives in `now.md`. `work/` is what you produced.
 
 A checked todo with no file here does not count as learning. Saving a link, a PDF, or someone else’s notes also does not count.
 

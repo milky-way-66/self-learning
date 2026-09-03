@@ -6,13 +6,13 @@
 
 Copy this file to `reflections/YYYY-Www.md`. Do not write in the template.
 
-Current goals (look only after you try from memory): see `goal.md`.
+Current goals (look only after you try from memory): see `goal.md` → `goals/<slug>.md`.
 
 ---
 
 ## 1. The goals, from memory
 
-Restate each current goal without looking at `goal.md`. Then look. If they do not match, say so.
+Restate each current goal without looking at `goal.md` / `goals/`. Then look. If they do not match, say so.
 
 - **DevOps:**
 - **English:**
@@ -74,11 +74,11 @@ If I cannot explain it simply, I did not learn it yet.
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
-If no: why, and what replaces it?
+If no: why, and what replaces it? If **rewriting** a goal: edit `goals/<slug>.md` and append one line to its **History**. If **finished or dropped**: move to `goals/finished/` (keep History) and update `goal.md`.
 
 If something new wants to become a goal: why, and does an existing goal lose a seat? Do not grow the list without a reason.
 
-Update `goal.md` before you plan next week.
+Update `goal.md` / `goals/` before you plan next week.
 
 
 ## 8. What next week is for

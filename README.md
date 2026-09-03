@@ -10,19 +10,21 @@ Why the system is built this way: [design.md](design.md).
 
 ## Current goals
 
-See [goal.md](goal.md). Fill those sections before you make todos.
+See [goal.md](goal.md) (index). Full text: one file per goal under [goals/](goals/).
 
-1. **Learn DevOps**
-2. **Learn English**
-3. **NomStamp (iOS)** — 100 returning users
+1. **Learn DevOps** — [goals/devops.md](goals/devops.md)
+2. **Learn English** — [goals/english.md](goals/english.md)
+3. **NomStamp (iOS)** — [goals/nomstamp.md](goals/nomstamp.md) — 100 returning users
 
 A week does not have to treat every goal equally. It does have to name which goals it is for. A new interest waits in Captures on [now.md](now.md) until a weekly reflection says it is a goal. The **9–5 SWE job** is a practice channel for DevOps/English (learn from work, or shift work to learn more) — not a separate goal. Evidence still goes in `work/`.
+
+Finished or dropped goals: [goals/finished/](goals/finished/). Each current goal file has a **History** list so you can see what changed since you first defined it.
 
 ---
 
 ## The loop
 
-1. **Goals** live in [goal.md](goal.md). Hold them for weeks or months. Change a goal only after a weekly reflection.
+1. **Goals** live in [goals/](goals/) (index: [goal.md](goal.md)). Hold them for weeks or months. Change a goal only after a weekly reflection; append **History** when you rewrite. Close into [goals/finished/](goals/finished/).
 2. **This week** lives in [now.md](now.md): short intent, todos, a 3–5 item “next” stash (not a plan), optional captures.
 3. **Do the work.** Each todo is notes, essay, or practice. It produces a file under [work/](work/README.md). Check the box only when that file exists.
 4. **Once a week, sit down and write.** Copy [reflections/_template.md](reflections/_template.md) to `reflections/YYYY-Www.md`. Think. Answer it. If you skip this, you did not run the system that week.
@@ -36,7 +38,8 @@ Weekdays: open `now.md`. Sunday (or whenever you protect the block): write the r
 
 | File | When |
 | --- | --- |
-| [goal.md](goal.md) | A goal changed (rare) |
+| [goal.md](goal.md) / [goals/](goals/) | A goal changed (rare); History shows rewrites since first define |
+| [goals/finished/](goals/finished/) | A goal is done or dropped |
 | [now.md](now.md) | Any weekday — plan, todos, captures |
 | [work/README.md](work/README.md) | Starting notes / an essay / practice |
 | [reflections/_template.md](reflections/_template.md) | The weekly think-and-write session |
@@ -63,7 +66,11 @@ Path: `work/<goal>/<kind>/YYYY-MM-DD-slug.md`. Copy from `work/_templates/`. Ful
 ```text
 ├── README.md                 # This file — how to run the system
 ├── design.md                 # Why it is built this way
-├── goal.md                   # Current named goals
+├── goal.md                   # Index of current goals
+├── goals/
+│   ├── _template.md
+│   ├── <slug>.md             # Current goal + History
+│   └── finished/             # Done or dropped
 ├── now.md                    # This week only
 ├── reflections/
 │   ├── _template.md
