@@ -1,3 +1,15 @@
+# Finished or dropped goal
+
+**Status:** dropped
+
+**Closed on:** 2026-W36 (4 Sep 2026)
+
+**How I know:** Chose to free the seat — side project, not a named learning goal. Evidence of the short run stays under `work/nomstamp/` (e.g. `work/nomstamp/notes/2026-09-03-pre-appstore-cloud-and-friends.md`). Not finished: no 100 returning users.
+
+**What replaces it (if anything):** `business` ([goals/business.md](../business.md))
+
+---
+
 # NomStamp (iOS)
 
 **Slug:** `nomstamp` (matches `work/nomstamp/`)
@@ -18,6 +30,5 @@ Endless polish or feature piles that do not help someone stamp food and return. 
 
 ## History
 
-Append only after a weekly reflection rewrites this goal. Top of file = current definition. This list = what changed since first define.
-
 - **2026-W36 (3 Sep 2026)** — defined (initial).
+- **2026-W36 (4 Sep 2026)** — closed (dropped). Side project; seat freed. Not done (no 100 returning users).
