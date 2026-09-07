@@ -12,11 +12,11 @@ The core practice is to **keep questioning yourself** and **keep the goals in vi
 
 1. Hold your **current goals** as one file each under `goals/` (index in `goal.md`). Keep them for weeks or months. Add, drop, or rewrite a goal only when a weekly reflection says it is clearly wrong — or clearly missing. When you rewrite, append one line to that file’s **History**.
 2. Plan **this week only** in `now.md`: a short intent per goal you will touch, a todo list tagged to a goal, and a small “next” stash (3–5 bullets, not a plan).
-3. **Do the work.** Each todo produces a file in `work/`: **notes**, **essay**, or **practice**. Check it off only when that file exists.
+3. **Do the work.** Each todo produces a file in `work/`: **notes**, **essay**, or **practice**. Check it off only when that file exists. How a weekday actually does this: `run.md`.
 4. **Once a week, sit down and write.** Copy `reflections/_template.md` into a dated file. Think. Answer the questions honestly. This session is required. If you skip it, you did not run the system that week.
 5. After the session: rewrite `now.md` for the next week. Pull from the stash, drop what no longer serves a goal, and add at most 3–5 new stash items. If a goal finished or dropped: move it to `goals/finished/` and update `goal.md`.
 
-Weekdays you open `now.md`. Optional mid-week captures live there if something hits you. They are never required.
+Weekdays you run a session (`run.md`), not only open `now.md`. Optional mid-week captures live there if something hits you. They are never required.
 
 A week does not have to treat every goal equally. It does have to name which goals it is for, and it must not invent an unofficial goal as “just this once.”
 
@@ -27,6 +27,7 @@ A week does not have to treat every goal equally. It does have to name which goa
 ```text
 ├── README.md                 # How to use this repo
 ├── design.md                 # This file — why the system works this way
+├── run.md                    # How a week produces files (rules for doing)
 ├── goal.md                   # Index of current goals (links only)
 ├── goals/
 │   ├── _template.md          # New current goal
@@ -56,10 +57,12 @@ Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no dai
 - **Named goals only.** Each current goal is `goals/<slug>.md`, listed in `goal.md`. Do not let a new interest become a goal mid-week. Park it in Captures and decide on Sunday.
 - **This week is the plan.** The stash is a reminder so Sunday is not empty. It is not a backlog. Cap it at 3–5 items. Delete freely.
 - **Every todo is tagged to one goal** and says how it serves that goal. If you cannot say it in one line, it does not go on the list.
+- **Every todo is small, actionable, and evaluable** before it goes on `now.md`. If not, break it. Details: `run.md`.
 - **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps, English, or Business when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English / value-cost-metric talk. A practice todo names which goal that hour serves. A normal day with no file in `work/` does not count.
 - **The weekly session is the calibration.** You question yourself, you question the week, you question each goal. Default is to keep a goal. You change it only when the answer is clearly no. Rewrites go in the goal file; append **History**.
 - **Finished goals leave the current list.** Move to `goals/finished/` with Status / Closed on / How I know. Keep `work/<slug>/` as evidence.
 - **Output in `work/` is the evidence.** A checked box without a notes, essay, or practice file does not count. Bookmarks and copied text do not count.
+- **Weekdays follow `run.md`.** One must-land file, a timed session, ride-alongs on the same evening. Do not add a fourth planning layer.
 
 ---
 

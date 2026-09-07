@@ -4,7 +4,7 @@ Hold **named goals**. Plan **this week**. Do the work in your own words. **Once 
 
 Question yourself. Keep the goals in view. Reading, essays, and practice exist to serve the goals — they are not the point by themselves.
 
-Why the system is built this way: [design.md](design.md).
+Why the system is built this way: [design.md](design.md). How a week produces files: [run.md](run.md).
 
 ---
 
@@ -26,11 +26,11 @@ Finished or dropped goals: [goals/finished/](goals/finished/). Each current goal
 
 1. **Goals** live in [goals/](goals/) (index: [goal.md](goal.md)). Hold them for weeks or months. Change a goal only after a weekly reflection; append **History** when you rewrite. Close into [goals/finished/](goals/finished/).
 2. **This week** lives in [now.md](now.md): short intent, todos, a 3–5 item “next” stash (not a plan), optional captures.
-3. **Do the work.** Each todo is notes, essay, or practice. It produces a file under [work/](work/README.md). Check the box only when that file exists.
+3. **Do the work.** Each todo is notes, essay, or practice. It produces a file under [work/](work/README.md). Check the box only when that file exists. How: a timed weekday session — [run.md](run.md).
 4. **Once a week, sit down and write.** Copy [reflections/_template.md](reflections/_template.md) to `reflections/YYYY-Www.md`. Think. Answer it. If you skip this, you did not run the system that week.
-5. Rewrite [now.md](now.md) for the next week. Pull from the stash. Drop what no longer serves a goal.
+5. Rewrite [now.md](now.md) for the next week. One must-land file. Pull from the stash. Drop what no longer serves a goal.
 
-Weekdays: open `now.md`. Sunday (or whenever you protect the block): write the reflection, then replan.
+Weekdays: run a session ([run.md](run.md)). Sunday (or whenever you protect the block): write the reflection, then replan.
 
 ---
 
@@ -41,6 +41,7 @@ Weekdays: open `now.md`. Sunday (or whenever you protect the block): write the r
 | [goal.md](goal.md) / [goals/](goals/) | A goal changed (rare); History shows rewrites since first define |
 | [goals/finished/](goals/finished/) | A goal is done or dropped |
 | [now.md](now.md) | Any weekday — plan, todos, captures |
+| [run.md](run.md) | **Start here** on a weekday — rules for doing |
 | [work/README.md](work/README.md) | Starting notes / an essay / practice |
 | [reflections/_template.md](reflections/_template.md) | The weekly think-and-write session |
 | [design.md](design.md) | You need the why, not the how |
@@ -64,8 +65,9 @@ Path: `work/<goal>/<kind>/YYYY-MM-DD-slug.md`. Copy from `work/_templates/`. Ful
 ## Layout
 
 ```text
-├── README.md                 # This file — how to run the system
+├── README.md                 # This file — map of the repo
 ├── design.md                 # Why it is built this way
+├── run.md                    # How a week produces files (rules for doing)
 ├── goal.md                   # Index of current goals
 ├── goals/
 │   ├── _template.md

@@ -52,8 +52,10 @@ Examples: `devops/notes/2026-09-03-k8s-probes.md`, `english/essays/2026-09-04-wh
 
 ## How a weekday task becomes a file
 
+The session itself is in [run.md](../run.md) (start here, timer, must-land, copy the template first). A todo must be small, actionable, and evaluable before you start it. The file steps:
+
 1. The todo in `now.md` names the **goal**, the **kind**, and how it serves the goal.
-2. Copy `_templates/<kind>.md` into the matching folder.
+2. Copy `_templates/<kind>.md` into the matching folder — before you read or practice.
 3. Write. In your own words. Fill “serves this goal by.”
 4. Link the file on the todo. Then check it off.
 
