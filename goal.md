@@ -9,6 +9,7 @@ Named goals only. Keep the list small. Change a goal only after a weekly reflect
 | 1 | Learn DevOps | [goals/devops.md](goals/devops.md) | `work/devops/` |
 | 2 | Learn English | [goals/english.md](goals/english.md) | `work/english/` |
 | 3 | Learn business | [goals/business.md](goals/business.md) | `work/business/` |
+| 4 | Move (NZ or other) | [goals/relocate.md](goals/relocate.md) | `work/relocate/` |
 
 New current goal: copy [`goals/_template.md`](goals/_template.md) → `goals/<slug>.md`, add a row here, create `work/<slug>/`.
 

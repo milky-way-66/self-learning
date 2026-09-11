@@ -3,16 +3,16 @@
 **Slug:** `english` (matches `work/english/`)
 
 **One sentence:**
-Use English as a work language — speaking in meetings and writing things others can act on — so I can work remotely or move to a place where work happens in English.
+Use English as a work language — speaking in **interviews** and when I teach, writing things others can act on — so the **relocate** goal is possible.
 
 **Why this, now:**
-I already know English (about TOEIC 750). I read and chat in it every day, but it has been stale for years and I am not confident using it at work. That is not enough for remote work or relocating to the EU (or another English-working country). The stall is production, not input: I consume English; I do not yet do my job in it. Hard English books still feel difficult — I will keep them, and prefer ones that also serve DevOps, so one stretch of reading can move both goals. When work uses English (meetings, docs, reviews), that is practice — write it down; do not wait only for after-hours drills.
+I already know English (about TOEIC 750). I read and chat in it every day, but it has been stale for years and I am not confident using it at work. I have **tried interviews and I am not good at them yet**. The stall is not only speaking: I need a **written structure** first — how to present a system (problem, data, one tradeoff) — then speak from that. The move itself is [goals/relocate.md](relocate.md). AWS is DevOps, not this.
 
 **What “done” looks like:**
-I can do professional work in English without switching language or staying quiet. That means live speaking (meetings, explaining design, disagreeing) and writing others use (docs, tickets, reviews). Hard book reading can support this and can compose with DevOps, but “done” is still work production, not finishing more books. Remote or relocation becomes possible because of that capability, not because I waited for a higher test score.
+I have a **written walkthrough of one system** I designed (architecture + data) in interview shape, under `work/english/`. I have then **spoken it** from that writing — repeated practice files, not one lucky session — and can take follow-ups without switching language or staying quiet. Teaching counts when I explain that kind of thing out loud and record it. The CV, shortlist, and applications belong to relocate. A job offer is relocate’s “done,” not this one’s.
 
 **What I will not chase in the name of this goal:**
-Another TOEIC/cert grind as a substitute for speaking and writing. Casual reading and chat alone — I already do that every day and it has not unstuck me (hard books that stretch me, especially ones that also serve DevOps, are allowed). Native-like accent, literary English, or waiting until I feel confident before I produce. English as a school subject disconnected from work.
+Timed speaking drills before a written walkthrough of one system exists. NZ Senior / staff interviews I cannot yet defend in English. ML Engineer / “AI specialist” as my headline. IELTS/TOEIC grind as a substitute for interview structure. A paid mock-interview treadmill. Interview-theory books with no system of mine on the page. Casual reading and chat alone. Native-like accent, literary English, or waiting until I feel confident before I produce.
 
 **Held since:** 2026-W36 (3 Sep 2026)
 
@@ -21,3 +21,4 @@ Another TOEIC/cert grind as a substitute for speaking and writing. Casual readin
 Append only after a weekly reflection rewrites this goal. Top of file = current definition. This list = what changed since first define.
 
 - **2026-W36 (3 Sep 2026)** — defined (initial).
+- **2026-W37 (11 Sep 2026)** — rewritten: production English for relocate. Path = write interview structure + one system first, then speak from that. “Done” = written walkthrough + later spoken reps. Move / offer / CV / search = `relocate`.

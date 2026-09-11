@@ -15,8 +15,9 @@ See [goal.md](goal.md) (index). Full text: one file per goal under [goals/](goal
 1. **Learn DevOps** — [goals/devops.md](goals/devops.md)
 2. **Learn English** — [goals/english.md](goals/english.md)
 3. **Learn business** — [goals/business.md](goals/business.md)
+4. **Move (NZ or other)** — [goals/relocate.md](goals/relocate.md)
 
-A week does not have to treat every goal equally. It does have to name which goals it is for. A new interest waits in Captures on [now.md](now.md) until a weekly reflection says it is a goal. The **9–5 SWE job** is a practice channel for DevOps, English, and Business (learn from work, or shift work to learn more) — not a separate goal. Evidence still goes in `work/`. A practice todo names which goal that hour serves.
+A week does not have to treat every goal equally. It does have to name which goals it is for. A new interest waits in Captures on [now.md](now.md) until a weekly reflection says it is a goal. The **9–5 SWE job** is a practice channel for DevOps, English, Business, and Relocate (learn from work, or shift work to learn more) — not a separate goal. Evidence still goes in `work/`. A practice todo names which goal that hour serves.
 
 Finished or dropped goals: [goals/finished/](goals/finished/). Each current goal file has a **History** list so you can see what changed since you first defined it.
 
@@ -81,7 +82,8 @@ Path: `work/<goal>/<kind>/YYYY-MM-DD-slug.md`. Copy from `work/_templates/`. Ful
     ├── _templates/           # notes / essay / practice
     ├── devops/notes|essays|practice/
     ├── english/notes|essays|practice/
-    └── business/notes|essays|practice/
+    ├── business/notes|essays|practice/
+    └── relocate/notes|essays|practice/
 ```
 
 Dropped-goal evidence may still live under `work/<slug>/` (e.g. `work/nomstamp/`).
