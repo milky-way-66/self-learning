@@ -1,52 +1,42 @@
 # Essay
 
-- **Goal:** DevOps 
+- **Goal:** DevOps
 - **Date:** 2026-09-13
-- **Serves this goal by: Define what is lean and what is IT in lean**
+- **Serves this goal by:** Define what Lean is and how it applies to IT.
 
-The overall idea that effect the devops is Lean, and we could not move anywhere without understanding it.
+Lean is a way of thinking: deliver value to the customer with less waste, by improving the system on purpose. That matters to us because software work is the same: we turn an idea into a running service that brings value to the customer. This page will cover the core idea of Lean through five questions, then how it applies to IT via flow, a feedback loop, and learning from failure.
 
-So this essay will explain what is Lean, why it's important and how we it effect the software development.
+Think of Lean as a way we continuously practice to improve our system. And we practice it by answering five questions.
 
-So the first question is, what is Lean? Lean is a way of thinking to answer the question that how do we devliver the value to customer with less waste and resouce.
+First, what is our purpose, or what problem are we trying to solve for our customer?
 
-But why do we need that in the first place ? well, it's necessery because we want to be good and better as a company or a worker, and lean is a helpfull way to do it.
+That question helps us understand what our value to the customer is, and it will be the goal of the system. Finding it first and keeping it in the center will keep us focusing on the actual value and moving forward to achieve the goal.
 
-Oke, now we will go deeper to undertand what lean actually is in the genaral context. 
+Next, what do we need to do in order to achieve the purpose? This question defines the set of work we need to do to bring the value to the customer. Based on that we can create the value stream of our company.
 
-Thing of lean is way we continus practicing to improve our system. And we practicing it by answering 5 question.
+Then we need to know what capabilities we need for this work, so that the work can get done.
 
-First, what is our purpose, or what problem we are trying to solved for our customer? that question help us understand what is our value to customer, and it will be the goal of the system so alway find it first and keep it in the center. This will keep us focusing on the actual value and forward to achive the goal.
+Now we know what we need to do and how to do it, then we need to find a management system and soft skills to support the work running effectively.
 
-Next is what work we need to do in order to achive that purpose ?. This question define the set of work we need to do to bring the value to the customer, and then create the value stream.
+And the last one: what is the basic thinking or mindset underlying the system that we need to push the system toward the goal?
 
-Then we need to answer that what capability do we need to do these work ? So that the work can get done and done effectively.
+By continuing to ask these questions and applying the answers to the work, we will continuously improve the system, leading toward the goal of creating a value stream that has zero waste.
 
-Other question is that what management system and soft skill do we need to improve the work and capability ? that keep the system continuese improve and running.
+When applying Lean to IT, the value stream starts when we define the business requirement or idea, then through development we turn that into an application or service that is reachable by customers, and serve it to the customer via IT operations.
 
-The last question is that what is the basic thinking or mindset that stay underlying of the system that we need to push the system toward the goal. 
+With that definition in mind, we have three ways to apply Lean to the system.
 
-By keep questioning these and apply the answer to the work, we will continusely improve and move forward to the goal, intil the final perfect ideal is the value steam with zero wasted.
+First, define the flow. The idea is, the system flow is created by individual work and the flow between them; by optimizing both individual work and how they work with each other, we can optimize the system.
 
-When applying lean to IT, we need to keep the core idea of thinking to continus improve the system to provice the value to customer with lowest wasted.
+There are some practices we can do:
 
-And the value stream of IT business start when we define the business requirement or idea, then thought the development to turn that into an application or service that reachable by customers, and serving it to customer via IT operation.
+- Understand the flow: we require each individual to understand the flow of the value stream, and the direction of flow. The flow should only run in one direction; any backward move or staying is treated as waste. That requires that rework is visible and solved. It also puts on each individual the responsibility for their work so that it does not come back after they resolve it.
+- Seeking for improvement: individuals should know and move toward improvement, by applying new techniques and experiments to find the best for each step of the stream.
+- Known problems should never be deferred to the downstream step. This means that every known problem should be handled in the nearest place where it occurs. It also means that everyone should understand the definition of done so that they can evaluate and judge whether their work is done before they ship it to the next step.
+- Never allow local optimization to hurt global performance. This happens when an individual tries to improve performance but it ends up affecting others' performance.
 
-With that defination of value stream, when apply lean to it, we having three ways ( for now).
+The second way is creating the feedback loop. The flow goes forward, but after it is done, we can ask for feedback from the customer to improve the flow. By that we can make sure that our change actually adds value to our customer.
 
-First is optimize perfomance. The idea is, the system flow perfomance is created by indivitual perfomance and the workflow between the, by optimize both of that, we can optimize the system.
+And the third is to create the environment that allows failure and learning. Failure is costly, but it is necessary for learning and improvement. Learning from failure is an important step of improvement. So creating an environment that allows experiment and failure helps us learn faster and makes the system more resilient.
 
-And we do that by applying some pravtices:
-
-- Understand the flow: we requrire each indivitual to understand the flow of value stream, and the direction of flow. That important because the flow should and should only go in one direction, any invert move or stay of work is treated as wasted, and we need to remove them. That require the rework is visible and need attection to solve. It also put on each indivitual the responsiple for their work.
-- Seeking for improvement: indivital should know and forward to the improvement, by apply new technique and experiment to find the best for each step of the steam.
-- Known problem should never be defered to the downsteam step. This mean that every known problem should be handle in the the nearest place where it occur. It also mean that everyone should understand the defination of done so that they can evaluate and judge wheter their work is done before ship it to the next step.
-- Never allow local optimization to defect the gloabl perfomance. This happend when at some step we trying to improve the perfomance but the result lead to the decrease of the perfomance of other step.  The root cause of it is that between each step we having conflict and this is a natual confict (couldn't be solve), Like bettwen QA and dev. This practive mean that indivitual when trying to optimize, we should not only care about their own step, but insteed look the full picture.
-
-The second way is creating the feedback loop. That is create a way so that feedback can reach the system as soon as possiple so that we can learn from customer feedback and improve the system.
-
-And the third way is create the environment that allow failure and learn. Failure is bad it it necessery for learning and improvement. Learn from failure is a important step of improvement. So create a environement that allow experiment and failture help us learn faster and make the system more resilient. 
-
-And that is Lean, why we should lean it and how to apply it. 
-
-Lean is very important method that we need to understand and practicing it every day. So learning and deeply understand it is the first step to achive our goal. The core idea sound easy but keep it in mind and practice it every is hard. Stay alive and stay a wake, me and my friend as we continue this.
+Lean provides us a way to optimize the system by cutting waste and reducing resources to deliver the value. By understanding the five core questions of Lean we can build a strong foundation. Then upon that foundation, we apply the Three Ways to affect the work. First, write down the flow and point out what is wrong with it, then add feedback loops, and then carefully create the environment to accept failure and allow learning.
