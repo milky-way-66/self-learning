@@ -2,7 +2,9 @@
 
 The center of this system is **your current goals**. Everything else exists to serve them.
 
-You can hold more than one. Right now that means **learn DevOps**, **learn English**, **learn business**, and **relocate** (NZ first, or another English-working country). Keep the list small and named. A pile of themes is not a set of goals.
+You can hold more than one. Right now that means **learn DevOps**, **learn English**, and **relocate** (NZ first, or another English-working country). Keep the list small and named. A pile of themes is not a set of goals.
+
+**How they relate (this phase):** Relocate is the **why** (NZ mid-SWE offer). DevOps is the **skill center** — Handbook fundamentals first (including what Lean is), then Part I / The Three Ways; AWS labs later on the same goal after a Sunday unlock. English is the **language** — self-study on your own SWE work (essay, then speak); a general English class stays parked. The **9–5 SWE stack** (backend, some frontend, AWS) is a **channel**, not a named goal. SWE depth, AWS labs, and HackerRank are necessary for the offer but **not this phase**. Lean business / BMG is **parked** (low ROI for this hire).
 
 The core practice is to **keep questioning yourself** and **keep the goals in view**. Reading, essays, experiments, and other tasks are how you learn — they are not the point by themselves. If a task does not serve a named goal, it does not belong in the week.
 
@@ -43,11 +45,10 @@ A week does not have to treat every goal equally. It does have to name which goa
     ├── _templates/           # notes / essay / practice
     ├── devops/notes|essays|practice/
     ├── english/notes|essays|practice/
-    ├── business/notes|essays|practice/
     └── relocate/notes|essays|practice/
 ```
 
-Dropped-goal evidence may still live under `work/<slug>/`.
+Dropped-goal evidence may still live under `work/<slug>/` (e.g. `work/business/`, `work/nomstamp/`).
 
 Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no daily logs.
 
@@ -59,7 +60,7 @@ Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no dai
 - **This week is the plan.** The stash is a reminder so Sunday is not empty. It is not a backlog. Cap it at 3–5 items. Delete freely.
 - **Every todo is tagged to one goal** and says how it serves that goal. If you cannot say it in one line, it does not go on the list.
 - **Every todo is small, actionable, and evaluable** before it goes on `now.md`. If not, break it. Details: `run.md`.
-- **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps, English, Business, or Relocate when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English / value-cost-metric talk / real search (CV, applications). A practice todo names which goal that hour serves. A normal day with no file in `work/` does not count.
+- **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps, English, or Relocate when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English / real search (CV, applications). A practice todo names which goal that hour serves. A normal day with no file in `work/` does not count.
 - **The weekly session is the calibration.** You question yourself, you question the week, you question each goal. Default is to keep a goal. You change it only when the answer is clearly no. Rewrites go in the goal file; append **History**.
 - **Finished goals leave the current list.** Move to `goals/finished/` with Status / Closed on / How I know. Keep `work/<slug>/` as evidence.
 - **Output in `work/` is the evidence.** A checked box without a notes, essay, or practice file does not count. Bookmarks and copied text do not count.

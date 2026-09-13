@@ -6,7 +6,7 @@
 
 **How I know:** Chose to free the seat — side project, not a named learning goal. Evidence of the short run stays under `work/nomstamp/` (e.g. `work/nomstamp/notes/2026-09-03-pre-appstore-cloud-and-friends.md`). Not finished: no 100 returning users.
 
-**What replaces it (if anything):** `business` ([goals/business.md](../business.md))
+**What replaces it (if anything):** `business` (later parked 2026-W37 — [goals/finished/2026-09-business.md](2026-09-business.md))
 
 ---
 

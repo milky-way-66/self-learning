@@ -14,11 +14,11 @@ Every file is one of these. Pick before you start. Copy the matching template fr
 
 | Kind | What you do | Not this |
 | --- | --- | --- |
-| **Notes** | After you read, watch, or listen, write it in your own words. What it is, why it matters for the goal, what you still don’t understand. | Highlights, copied paragraphs, a bookmark list. |
+| **Notes** | After you read, watch, or listen, write it in your own words. Use 5W1H (what, who, when, where, why, how) as a prompt — skip what does not apply. Free-form, not a form. | Highlights, copied paragraphs, a bookmark list. |
 | **Essay** | Write to think. Argue something (introduction → body → conclusion), explain it as if teaching, or connect two ideas. Longer than notes. | A diary of “I studied today,” or a summary that never takes a position. |
 | **Practice** | Do the thing. A lab, a config, a command you ran, a speaking or writing drill. Record what you tried, what happened, what you would do next time. | “I should try X” with no attempt. |
 
-Current goals (DevOps, English, Business, Relocate) use the same three kinds. The goal changes the material, not the shape. Dropped goals may still have evidence under `work/<slug>/`.
+Current goals (DevOps, English, Relocate) use the same three kinds. The goal changes the material, not the shape. Dropped goals may still have evidence under `work/<slug>/` (e.g. `work/business/`).
 
 ---
 
@@ -38,10 +38,6 @@ work/
 │   ├── notes/
 │   ├── essays/
 │   └── practice/
-├── business/
-│   ├── notes/
-│   ├── essays/
-│   └── practice/
 └── relocate/
     ├── notes/
     ├── essays/
@@ -50,7 +46,7 @@ work/
 
 Name: `YYYY-MM-DD-short-slug.md`
 
-Examples: `devops/notes/2026-09-03-k8s-probes.md`, `english/essays/2026-09-04-why-i-avoid-speaking.md`, `business/practice/2026-09-10-pm-metric-walkthrough.md`
+Examples: `devops/notes/2026-09-03-k8s-probes.md`, `english/essays/2026-09-04-why-i-avoid-speaking.md`, `relocate/practice/2026-09-10-market-watch.md`
 
 ---
 

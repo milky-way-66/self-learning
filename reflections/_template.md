@@ -16,7 +16,7 @@ Restate each current goal without looking at `goal.md` / `goals/`. Then look. If
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Relocate:**
 - **Any other goal I treated as real this week, unofficially:**
 
 >
@@ -28,7 +28,7 @@ Facts. What I read, wrote, built, skipped. Group by goal.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Relocate:**
 - **Neither:**
 
 
@@ -38,7 +38,7 @@ Point at files in `work/`, or write: nothing did.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Relocate:**
 
 
 ## 4. Fake progress
@@ -57,7 +57,7 @@ If I cannot explain it simply, I did not learn it yet.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Relocate:**
 
 
 ## 7. Are these still the right goals?
@@ -70,13 +70,15 @@ If I cannot explain it simply, I did not learn it yet.
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
-**Business**
+**Relocate**
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
 If no: why, and what replaces it? If **rewriting** a goal: edit `goals/<slug>.md` and append one line to its **History**. If **finished or dropped**: move to `goals/finished/` (keep History) and update `goal.md`.
 
 If something new wants to become a goal: why, and does an existing goal lose a seat? Do not grow the list without a reason.
+
+**Unlock check (this phase):** Does Part I (The Three Ways) exist as notes in my own words? If yes, a Sunday may unlock AWS labs / SWE depth / HackerRank. If no, do not start those.
 
 Update `goal.md` / `goals/` before you plan next week.
 

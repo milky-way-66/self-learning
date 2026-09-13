@@ -1,3 +1,15 @@
+# Finished or dropped goal
+
+**Status:** dropped (parked / not-now)
+
+**Closed on:** 2026-W37 (13 Sep 2026)
+
+**How I know:** No `work/business/` learning files this week (or before). Sunday W37: lean / BMG study does not directly hire a NZ mid-level SWE; time is short. “Deliver value” moves into DevOps as one outcome line, not a fourth book. Not finished — literacy “done” was never met.
+
+**What replaces it (if anything):** empty seat (three current goals: DevOps, English, Relocate). Un-park only if a later Sunday says the path is PM/founder.
+
+---
+
 # Learn business
 
 **Slug:** `business` (matches `work/business/`)
@@ -18,6 +30,5 @@ Course certificates and Wharton-as-badge. Newsletter / Stratechery lifestyle wit
 
 ## History
 
-Append only after a weekly reflection rewrites this goal. Top of file = current definition. This list = what changed since first define.
-
 - **2026-W36 (4 Sep 2026)** — defined (initial). Seat freed by dropping NomStamp. A+B first (heavy A); C later.
+- **2026-W37 (13 Sep 2026)** — closed (dropped / parked). Low ROI for NZ mid-SWE offer; no weekly seat. Value line lives under DevOps. Un-park only for PM/founder path.
