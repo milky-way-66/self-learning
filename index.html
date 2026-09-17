@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Long — Backend Software Engineer</title>
+  <meta name="description" content="Backend engineer in Hanoi. Adaptive on new problems. Designed a git-backed software document system. Python, FastAPI, PostgreSQL. Open to NZ or Australia.">
+  <link rel="canonical" href="https://milky-way-66.github.io/self-learning/">
+  <style>
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      background: #fff;
+      color: #111;
+      font: 15.5px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2.5rem 1.25rem 4rem;
+    }
+
+    header {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #111;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.85rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .role {
+      margin: 0.2rem 0 0.55rem;
+      font-size: 0.95rem;
+      color: #333;
+    }
+
+    .contact {
+      margin: 0;
+      font-size: 0.88rem;
+      color: #555;
+    }
+
+    .contact a {
+      color: #111;
+      text-decoration: none;
+      border-bottom: 1px solid #111;
+    }
+
+    h2 {
+      margin: 1.4rem 0 0.45rem;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    p { margin: 0 0 0.6rem; }
+
+    .job {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: baseline;
+      margin-top: 0.15rem;
+    }
+
+    .job h3 {
+      margin: 0;
+      font-size: 1rem;
+    }
+
+    .when {
+      font-size: 0.88rem;
+      color: #555;
+      white-space: nowrap;
+    }
+
+    .place {
+      margin: 0.15rem 0 0.45rem;
+      font-size: 0.88rem;
+      color: #555;
+    }
+
+    h4 {
+      margin: 0.7rem 0 0.25rem;
+      font-size: 0.95rem;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.15rem;
+    }
+
+    li { margin: 0.22rem 0; }
+
+    .skills {
+      margin: 0;
+      color: #222;
+    }
+
+    @media print {
+      main { padding: 0; max-width: none; }
+      a { color: inherit; text-decoration: none; border: 0; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Long</h1>
+      <p class="role">Backend Software Engineer · 5 years · Kaopiz Software</p>
+      <p class="contact">
+        Hanoi, Vietnam ·
+        Open to New Zealand or Australia (work visa) ·
+        <a href="https://github.com/milky-way-66">github.com/milky-way-66</a>
+      </p>
+    </header>
+
+    <h2>About</h2>
+    <p>
+      Give me a problem I have never seen — I find a way to ship it.
+      That is how I am known at Kaopiz (one employer, about five years).
+      I keep getting assigned to new projects: new domain, no prior experience,
+      learn what I need, deliver. I like that; I also keep seeking the next new thing.
+      The cost: I have rarely stayed on a project more than about seven months,
+      so I am wide, not yet deep. The document system below is the one I still own.
+    </p>
+
+    <h2>Experience</h2>
+    <div class="job">
+      <h3>Kaopiz Software</h3>
+      <span class="when">Aug 2021 – present</span>
+    </div>
+    <p class="place">
+      Hanoi · software for Japan-based companies · Intern Aug 2021 – Aug 2022 ·
+      Engineer from Aug 2022 · company title Senior Software Engineer from 2025 ·
+      teams of about 2–5
+    </p>
+    <ul>
+      <li>Known as highly adaptive: given the new project even when I had never done that kind of work.</li>
+      <li>Backend on that rotation (often under ~7 months per project): FastAPI, PostgreSQL, REST, Celery, Docker — e-commerce / order systems, other internals, systems I took over.</li>
+      <li>Shipped LLM features as application software, not machine-learning research.</li>
+    </ul>
+
+    <h4>Software document system — designed from scratch (still mine)</h4>
+    <ul>
+      <li>Problem: documents went outdated over time; hard to manage and update with QA; no shared place for the company.</li>
+      <li>Design: first everything in the database — documents were hard to manage, and people already work locally. Then everything in Git, including comments — ACID for comments and similar features was hard. Split: docs live locally (Git); comments and other features live on the server.</li>
+      <li>Build: Python, FastAPI, PostgreSQL, Vue. I used AI to code faster; the design was mine. Mixed roles use it for document review, not test cases.</li>
+      <li>First design also included AI generate and AI edit; that was not good enough for production, so we kept the local hybrid. I still own the data model. I also cut a traceability graph. This is the system I am going deep on.</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <p class="skills">
+      Python · FastAPI · PostgreSQL · SQLAlchemy · REST · Celery · Docker · Vue.js
+    </p>
+
+    <h2>Education</h2>
+    <div class="job">
+      <h3>B.Sc. Computer Science, Thang Long University</h3>
+      <span class="when">2026</span>
+    </div>
+    <p class="place">Hanoi · completed while working</p>
+
+    <h2>Languages</h2>
+    <p class="place" style="margin:0">Vietnamese (native) · English (TOEIC 750 — reading and daily conversation)</p>
+  </main>
+</body>
+</html>

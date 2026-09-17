@@ -16,7 +16,7 @@ Restate each current goal without looking at `goal.md` / `goals/`. Then look. If
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Business domain:**
 - **Any other goal I treated as real this week, unofficially:**
 
 >
@@ -28,7 +28,7 @@ Facts. What I read, wrote, built, skipped. Group by goal.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Business domain:**
 - **Neither:**
 
 
@@ -38,7 +38,7 @@ Point at files in `work/`, or write: nothing did.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Business domain:**
 
 
 ## 4. Fake progress
@@ -57,7 +57,7 @@ If I cannot explain it simply, I did not learn it yet.
 
 - **DevOps:**
 - **English:**
-- **Business:**
+- **Business domain:**
 
 
 ## 7. Are these still the right goals?
@@ -70,7 +70,7 @@ If I cannot explain it simply, I did not learn it yet.
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
-**Business**
+**Business domain**
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 

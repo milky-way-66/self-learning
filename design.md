@@ -2,7 +2,7 @@
 
 The center of this system is **your current goals**. Everything else exists to serve them.
 
-You can hold more than one. Right now that means **learn DevOps**, **learn English**, **learn business**, and **relocate** (NZ first, or another English-working country). Keep the list small and named. A pile of themes is not a set of goals.
+You can hold more than one. Right now that means **learn DevOps**, **learn English**, **learn business domain**, and **relocate** (NZ first, or another English-working country). Keep the list small and named. A pile of themes is not a set of goals.
 
 The core practice is to **keep questioning yourself** and **keep the goals in view**. Reading, essays, experiments, and other tasks are how you learn — they are not the point by themselves. If a task does not serve a named goal, it does not belong in the week.
 
@@ -26,6 +26,7 @@ A week does not have to treat every goal equally. It does have to name which goa
 
 ```text
 ├── README.md                 # How to use this repo
+├── me.md                     # Stable facts about you (search / analytics / agents)
 ├── design.md                 # This file — why the system works this way
 ├── run.md                    # How a week produces files (rules for doing)
 ├── goal.md                   # Index of current goals (links only)
@@ -59,7 +60,7 @@ Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no dai
 - **This week is the plan.** The stash is a reminder so Sunday is not empty. It is not a backlog. Cap it at 3–5 items. Delete freely.
 - **Every todo is tagged to one goal** and says how it serves that goal. If you cannot say it in one line, it does not go on the list.
 - **Every todo is small, actionable, and evaluable** before it goes on `now.md`. If not, break it. Details: `run.md`.
-- **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps, English, Business, or Relocate when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English / value-cost-metric talk / real search (CV, applications). A practice todo names which goal that hour serves. A normal day with no file in `work/` does not count.
+- **The day job is a channel, not a goal.** 9–5 SWE work can serve DevOps, English, Business domain, or Relocate when you either (a) learn from what you already did and write notes/practice, or (b) deliberately shift a task toward ship / run / observe / teach / work English / the domain of software I touch / real search (CV, applications). A practice todo names which goal that hour serves. A normal day with no file in `work/` does not count.
 - **The weekly session is the calibration.** You question yourself, you question the week, you question each goal. Default is to keep a goal. You change it only when the answer is clearly no. Rewrites go in the goal file; append **History**.
 - **Finished goals leave the current list.** Move to `goals/finished/` with Status / Closed on / How I know. Keep `work/<slug>/` as evidence.
 - **Output in `work/` is the evidence.** A checked box without a notes, essay, or practice file does not count. Bookmarks and copied text do not count.
@@ -68,6 +69,10 @@ Markdown only. No GitHub issues, no quarterly OKRs, no second-brain wiki, no dai
 ---
 
 ## Files
+
+### `me.md`
+
+Who you are, as facts: work, stack, English, time, relocate constraints. Agents and later analysis should use this instead of inventing a different person. It is not a second brain and not a weekly file. Rewrite a line when the fact changed; append **Updated**.
 
 ### `goal.md` and `goals/`
 

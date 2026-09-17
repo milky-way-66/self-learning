@@ -1,6 +1,6 @@
 # Notes
 
-- **Goal:** DevOps / English / Business
+- **Goal:** DevOps / English / Business domain / Relocate
 - **Date:** YYYY-MM-DD
 - **Source:** _(book, article, video, course — title + link if any)_
 - **Serves this goal by:**
