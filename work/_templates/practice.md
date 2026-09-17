@@ -1,6 +1,6 @@
 # Practice
 
-- **Goal:** DevOps / English / Relocate
+- **Goal:** DevOps / English / Business domain / Relocate
 - **Date:** YYYY-MM-DD
 - **Serves this goal by:**
 

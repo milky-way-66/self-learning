@@ -1,6 +1,6 @@
 # Notes
 
-- **Goal:** DevOps / English / Relocate
+- **Goal:** DevOps / English / Business domain / Relocate
 - **Date:** YYYY-MM-DD
 - **Source:** _(book, article, video, course — title + link if any)_
 - **Serves this goal by:**
@@ -17,5 +17,3 @@ Copy to `work/<goal>/notes/YYYY-MM-DD-slug.md`. Write in your own words. If you 
 - **How** — how it works, and how I would use it
 
 If something is still unclear, say so at the end.
-
-

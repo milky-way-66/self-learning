@@ -43,7 +43,10 @@ Ignore:
 
 ## Learner profile (use this)
 
-- Approx. TOEIC ~750; strong input, weaker production
+Facts: [`me.md`](../../../me.md). Short version:
+
+- Kang (Long), Hanoi; L1 Vietnamese. English **not** used at the 9–5.
+- Approx. TOEIC ~750; can read and talk daily; **interviews** are the stall (production, especially speaking what he does)
 - Goal: English others can act on at work — not exam English
 - Prefer short explanations of *why* a fix works
 - Common L1 patterns to watch (only flag when present): missing articles, verb tense slips, “how to” / infinitive mixups, word order calqued from Vietnamese, overlong sentences without connectors
