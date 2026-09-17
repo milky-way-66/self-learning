@@ -47,7 +47,8 @@ Optional. A thought, a doubt, a question for Sunday. A possible new goal waits h
 
 - **W38 (17 Sep):** Market research — domain stays the document tool. Search board can be NZ/AU/IE (+ NL/DE/CA if they already sponsor). 2026 generalist market is hard from Vietnam; applying is easy, offers are not. Focus = one story in English, then sponsors.
 - **Lean already written (14 Sep):** Notes + essay exist under `work/devops/` (`2026-09-14-what-is-lean`). Keep them. After the 17 Sep rewrite they are not this week’s must-land; Handbook continues after the dump on this tool.
-- **Doing rules:** Lived in [run.md](run.md). One must-land. Do not open a chat to redesign the system; dump that here.
+- **Lean quiz (17 Sep):** Scenario quiz on the document tool → [`work/devops/practice/2026-09-17-lean-scenario-quiz.md`](work/devops/practice/2026-09-17-lean-scenario-quiz.md). Hole: flow and bottleneck (who waits, what may start, I am still the specialist). Not the Friday dump.
+- **Doing rules:** Lived in [run.md](run.md). One must-land. Weekly **scenario quiz** (on what I learned that week, ~5 questions, then a practice file). Do not open a chat to redesign the system; dump that here.
 - **Day job channel:** 9–5 is not a fifth goal. This week it feeds the document tool (domain + handoff dump).
 - **Do not spend 45 min on:** C# or Go, AWS cert, fintech/insurance reading, IELTS now, a new portfolio, 100 cold applies.
 - **NomStamp:** Dropped (2026-W36). Hobby only.

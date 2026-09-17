@@ -91,4 +91,4 @@ Update `goal.md` / `goals/` before you plan next week.
 
 ## 8. What next week is for
 
-Which goals get time, and what is the short intent for each? Then rewrite `now.md`: new todos grouped by goal, stash at most 5 items, delete the rest.
+Which goals get time, and what is the short intent for each? Then rewrite `now.md`: new todos grouped by goal, stash at most 5 items, delete the rest. If a notes/essay file exists to quiz, put the **weekly scenario quiz** on `now.md` ([run.md](../run.md)) — real situations from **that** learning, not definitions, not a default system. Skip only if there was nothing to quiz.

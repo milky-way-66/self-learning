@@ -1,0 +1,27 @@
+---
+description: Weekly scenario quiz — real situations, not definitions
+alwaysApply: true
+---
+
+# Weekly scenario quiz
+
+Kang keeps this **every week**. The doing rule lives in [`run.md`](../../run.md). Example file: `work/devops/practice/2026-09-17-lean-scenario-quiz.md`.
+
+## When
+
+- He asks to quiz, or a `now.md` todo says scenario quiz.
+- Sunday rewrite of `now.md`: add a **practice** quiz todo if a notes/essay file exists to quiz. Skip only if there was nothing to quiz. Tag it to that goal. **Not** the must-land unless Sunday names it. **Not** a fifth goal. **Not** the Friday 10-minute dump.
+
+## How to run
+
+- **Focus on what he learned** that week (the notes/essay being quizzed). No default system. Scenes come from that material — a real situation where the idea would show up — not a leftover topic from another goal.
+- Content may go **beyond** what the notes already said. Do not only recap his page.
+- About **5 questions**, **one at a time**. He answers; short verdict (what was solid / what was missing); then the next.
+- Apply **this week’s idea** to the situation. Do not start with “define X.”
+- After the last question: a `work/<goal>/practice/YYYY-MM-DD-…-quiz.md` that names what he already does and **the hole**. He may ask you to write that file.
+
+## Do not
+
+- Turn the quiz into a lecture or a system redesign.
+- Make it a second must-land in the same week.
+- Grade English during the quiz unless he asks; this is content first.

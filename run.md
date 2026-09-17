@@ -29,6 +29,7 @@ Do not start by opening this chat to redesign the system.
 - **Ugly short files count.** One chapter (or a few pages) plus 10–15 minutes in your own words is a notes file. A perfect unread chapter is not. Check the box when the done-test is true.
 - **Ride-alongs share the session.** English speak (5–10 min) happens the same evening as the notes it is about — not a second evening, not after a “solid chunk” exists.
 - **The 9–5 dump is short.** Friday, ~10 minutes: write what already touched ship / run / observe / teach (or one deliberate shift). Do not hunt all week for a special DevOps task. No file → that day did not count.
+- **Weekly scenario quiz.** Keep this exercise every week. After a `work/` notes or essay file exists, quiz **that** learning in real situations — not definitions, not only what the file already said, not a default system. About **5 questions**, one at a time: you answer, then a short verdict, then the next. When it ends, a `practice` file names what you already do and **the hole**. Tag the todo to that goal. This is **one 45-minute session**, not a 10-minute dump, not a fifth goal, and not the must-land unless Sunday names it. Skip the week only if there was no file to quiz from. Example shape: [`work/devops/practice/2026-09-17-lean-scenario-quiz.md`](work/devops/practice/2026-09-17-lean-scenario-quiz.md).
 - **Other goals wait.** A secondary book or notes todo starts only after the must-land file exists — or in one weekend slot. Do not give every goal an equal book-chunk.
 - **Dates in filenames are names, not deadlines.** Missing Monday is not a reason to skip the week.
 - **Empty `- [ ]` lines invite more todos.** Delete them. Do not leave placeholders under a goal.
@@ -49,13 +50,21 @@ Example:
   → work/devops/notes/YYYY-MM-DD-slug.md
 ```
 
+Scenario quiz example:
+
+```text
+- [ ] practice Scenario quiz on this week’s notes (real situations from what I learned, ~5 questions, not definitions).
+  Done when: practice file exists and names one hole I still have
+  → work/<goal>/practice/YYYY-MM-DD-scenario-quiz.md
+```
+
 If you cannot write **Done when** in one line, break the task.
 
 ---
 
 ## A weekday session
 
-1. Open [now.md](now.md). Pick the must-land todo, or the next one that is unblocked (ride-along, then Friday dump).
+1. Open [now.md](now.md). Pick the must-land todo, or the next one that is unblocked (ride-along, scenario quiz, then Friday dump).
 2. Copy `work/_templates/<kind>.md` into the path on the todo.
 3. Do the work with the file open (read, speak, dump the workday).
 4. Fill it in your own words. Fill “serves this goal by.” Hit the **Done when** on the todo.
@@ -71,7 +80,7 @@ How a file is shaped: [work/README.md](work/README.md).
 
 Protect a block. Think first, then write. Copy [reflections/_template.md](reflections/_template.md) to `reflections/YYYY-Www.md`. If you skip this, you did not run the system that week.
 
-The questions live in the template and in [design.md](design.md) (weekly session). After the write-up: rewrite `now.md` — one must-land, every todo small / actionable / evaluable, ride-alongs named, stash at most 5, delete the rest.
+The questions live in the template and in [design.md](design.md) (weekly session). After the write-up: rewrite `now.md` — one must-land, every todo small / actionable / evaluable, ride-alongs named, **scenario quiz** as a practice todo if a notes/essay file exists to quiz, stash at most 5, delete the rest.
 
 ---
 
