@@ -118,7 +118,7 @@ Full goal: [`goals/relocate.md`](goals/relocate.md).
 
 ## Constraints (for advice)
 
-- **Time:** ~**45 minutes**, **late**, often tired. Weeks are **0 or 2–3** sessions, not a weekday habit. Killed by tired and phone. One must-land file per week. Do not plan “most evenings.”
+- **Time:** from **2026-09-24**, at least **1–2 hours a day**, **more on Saturday and Sunday**, for this goal. One must-land file per week. A day counts when a `work/` file moves. Older weeks were often **0 or 2–3** short late sessions, killed by tired and phone.
 - **Practice default:** the document tool above. Do not switch to e-commerce/LLM for a better story. Do not invent a successor or a product name.
 - **Learning counts** only with a `work/` file (or a reflection). A normal 9–5 day does not.
 - **NomStamp** (iOS food-map stamps): dropped hobby. Not a current goal. Not a CV project unless we write a real bullet later.
@@ -135,3 +135,4 @@ Full goal: [`goals/relocate.md`](goals/relocate.md).
 - **2026-09-23** — Full portal export. Failed attempts removed. File renamed to `thang-long-transcript.md`. Portal cumulative is 133 credits, 7.51/10, 3.02/4. Probability, statistics, and the AI course are on the pass list.
 - **2026-09-23** — Pay stated at about 32 million VND / month. Next job is a global product company in Hanoi or Ho Chi Minh City, English at work. NZ / AU visa search set aside.
 - **2026-09-24** — Business-domain goal dropped. Preparation for the job: English, DevOps Handbook plus practice, Python/FastAPI review, system design of the document tool.
+- **2026-09-24** — Study time he set: at least 1–2 hours a day, more on the weekend.

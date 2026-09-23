@@ -6,7 +6,7 @@
 
 ## Start here
 
-**Weekday** — open [now.md](now.md). Do the **must-land** todo (or the ride-along if that file already exists). Copy the template first. 45 minutes. Stop. Check the box only when the file exists.
+**Weekday** — open [now.md](now.md). Do the **must-land** todo (or the ride-along if that file already exists). Copy the template first. The day is **1–2 hours**. Saturday and Sunday are longer. One todo still fits about 45–60 minutes. When that piece is done, the rest of the block stays on the same file. Check the box only when the file exists.
 
 **Sunday** — copy [reflections/_template.md](reflections/_template.md), sit and write, then rewrite `now.md`. If you skip this, you did not run the system that week.
 
@@ -21,10 +21,10 @@ Do not start by opening this chat to redesign the system.
 - **Sunday steers. Weekdays ship.** The weekly reflection calibrates goals and rewrites `now.md`. A weekday is not “open `now.md`.” It is a timed session that leaves a file in `work/`.
 - **One must-land file per week.** Name it on `now.md`. That file is the week. Everything else rides along, waits, or is bonus. Three book-chunks in parallel is how nothing finishes.
 - **Break every todo until it is small, actionable, and evaluable.** If a task is too big, vague, or you cannot say how you will know it is done, it is not a todo yet — break it. All three must pass:
-  - **Small:** fits one 45-minute session. “Read Part I” or “a solid chunk” does not. One chapter, one section, or one dump does.
+  - **Small:** fits one 45–60 minute piece inside the day’s 1–2 hours. “Read Part I” or “a solid chunk” does not. One chapter, one section, or one dump does.
   - **Actionable:** a verb + a thing you can start without another decision. “Start the handbook” does not. “Read the preface and write what it claims DevOps is for” does.
   - **Evaluable:** a yes/no done-test on the todo itself. Usually: the `work/` file exists **and** it answers a named question. “I studied” / “I feel like I started” is not evaluable.
-- **A weekday is 45 minutes, one todo.** Same-ish time when you can. When the timer ends, stop. Do not stretch a session into “I’ll finish the solid chunk.”
+- **A day is 1–2 hours, more on Saturday and Sunday.** One todo is still one piece. When that piece is done, keep the rest of the block on the same file. Do not open a second subject to fill the clock.
 - **Copy the template first.** The empty file exists before you feel ready. Read, speak, or practice with that file open. Write in your own words until the timer ends.
 - **Ugly short files count.** One chapter (or a few pages) plus 10–15 minutes in your own words is a notes file. A perfect unread chapter is not. Check the box when the done-test is true.
 - **Ride-alongs share the session.** English speak (5–10 min) happens the same evening as the notes it is about — not a second evening, not after a “solid chunk” exists.
