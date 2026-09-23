@@ -15,7 +15,8 @@ Change a line when a **fact is wrong**. Append **Updated**.
 | --- | --- |
 | **Name** | Long. People call me **Kang**. CV name: **Long**. |
 | **Where** | Hanoi, Vietnam. Would move **solo**. |
-| **Headline** | **Backend Software Engineer** (mid overseas). Company title is Senior — do not use Senior as the overseas headline. |
+| **Headline** | **Backend Software Engineer** (mid). Company title is Senior — do not use Senior as the headline on applications. |
+| **Pay** | About **32 million VND / month** (stated 2026-09-23). Do not invent gross vs net. |
 | **9–5 language** | Vietnamese. **Not** English. **Not** Japanese. |
 
 ---
@@ -39,7 +40,7 @@ About **5 years**. Team usually **2–5**. I sit in architecture + data; others 
 
 **Other work (true, delivery only, do not say I designed them well):** e-commerce / orders, LLM-as-software, other internals, legacy I took over.
 
-**First gap to close:** another engineer can **change and run one system for a week without pinging me**. That is DevOps “done.” Domain (who uses it, what job it does, 2–3 rules) is [`goals/business.md`](goals/business.md). Do not add a fifth goal named “learn design.”
+**First gap to close:** another engineer can **change and run one system for a week without pinging me**. That is DevOps “done.” Who uses the document tool, and the rules of that system, belong in the English story and the system-design review for [`goals/relocate.md`](goals/relocate.md). Do not add a separate goal named “learn design” or “architect.”
 
 ---
 
@@ -83,6 +84,12 @@ Also failed (do not list as shipped): **AI review**, **traceability graph**. Do 
 
 **B.Sc. Computer Science**, Thang Long University, Hanoi. Cohort about **2018–2022**. Little/no school from **~2022** (working). Degree finished **2026**. A CV may say 2026. Do not imply full-time student 2022–2026. Do not hide the degree.
 
+Portal sheet in [`bangdiem.html`](bangdiem.html), pasted **2026-09-23**. Failed attempts and duplicate passes are removed in the markdown. The portal prints credits accumulated **133**, cumulative average **7.51/10**, **3.02/4**. The whole-program line on the same export is **139** credits, **7.19/10**, **2.88/4**. Do not put either average on the public CV unless asked. Full passed rows: [`thang-long-transcript.md`](thang-long-transcript.md).
+
+**Thesis** CS499 (6 credits) **8.7, A**. **Internship** IP401 (2 credits) **8.5, A**.
+
+For advice, not a course list on a CV: high marks are programming, data structures, discrete math, probability (9.0), graphics, software engineering, .NET, testing, and the thesis. Statistics is a **B** (7.6). **D+** on calculus 1, linear algebra, digital engineering, and intro law. DBMS is a **C** (5.8). Networks, formal languages, information theory, and the AI course are **C**. English courses are 18 credits, average about **7.1** (C to B+). Dropped blank courses are not on the list (`CF321`, `SE487`, and blank defense or PE rows).
+
 ---
 
 ## Languages
@@ -91,7 +98,7 @@ Also failed (do not list as shipped): **AI review**, **traceability graph**. Do 
 | --- | --- |
 | Vietnamese | Native. Work language. |
 | English | TOEIC **~750**. Can read and talk daily. **Not** used at Kaopiz. |
-| Japanese | Almost none. Do not list. |
+| Japanese | Almost none. School only: Japanese 1–2 (7.1 B, 5.5 C). Do not list. |
 
 **Interviews (1–2 real ones):** I go blank; I start talking and it comes out wrong; later I see I knew it. Stall is **how I talk about what I do**, not “no English.” Path: essay first, then speak ([`goals/english.md`](goals/english.md)). Do not prescribe a mock-interview treadmill unless I ask.
 
@@ -99,12 +106,11 @@ Also failed (do not list as shipped): **AI review**, **traceability graph**. Do 
 
 ## Relocate (not a public CV section)
 
-Live where work is in English. **NZ first** (life in English, not a researched visa plan). **Australia** also OK. First offer: **whichever mid-level backend visa job comes first (NZ or AU)**.
+Next job: **mid backend** at a **global product company** in **Hanoi or Ho Chi Minh City**, working language **English**. The New Zealand / Australia visa search is **set aside**. Going abroad is not this goal’s “done.”
 
-- Role: mid **backend** on a **work visa**. Not company-Senior, not ML.
-- Remote-first is OK **if it can lead to a visa**. Not remote-forever / EOR with no visa path.
-- Visa knowledge is **thin**. IELTS/PTE later, when asked.
-- Old English CV / LinkedIn **overclaims** (senior / AI / design). Rewrite from this file. I am **not applying**. Blocker: **not confident to start** — not missing IELTS, not missing a new portfolio. Do not send applications unless I ask.
+- Outsourcing only if product screens produce no interviews.
+- CV sending starts **January 2027**, and can stay open through **April 2027**. I am **not applying** before that. Blocker: **not confident to start**. Do not send applications unless I ask.
+- Old English CV / LinkedIn **overclaims** (senior / AI / design). Rewrite from this file.
 
 Full goal: [`goals/relocate.md`](goals/relocate.md).
 
@@ -125,3 +131,7 @@ Full goal: [`goals/relocate.md`](goals/relocate.md).
 
 - **2026-09-17** — first write from interview, then rewritten as CV source (Kaopiz, document tool, honest design limit, relocate, time).
 - **2026-09-17** — trimmed: keep facts that change a CV or advice; drop repeated agent/CV checklists and goal-index noise.
+- **2026-09-23** — Thang Long portal sheet in `transcript.md`. Education has the computed average, thesis, and the holes. Not an official printed GPA.
+- **2026-09-23** — Full portal export. Failed attempts removed. File renamed to `thang-long-transcript.md`. Portal cumulative is 133 credits, 7.51/10, 3.02/4. Probability, statistics, and the AI course are on the pass list.
+- **2026-09-23** — Pay stated at about 32 million VND / month. Next job is a global product company in Hanoi or Ho Chi Minh City, English at work. NZ / AU visa search set aside.
+- **2026-09-24** — Business-domain goal dropped. Preparation for the job: English, DevOps Handbook plus practice, Python/FastAPI review, system design of the document tool.

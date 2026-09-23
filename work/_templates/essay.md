@@ -1,6 +1,6 @@
 # Essay
 
-- **Goal:** DevOps / English / Business domain / Relocate
+- **Goal:** Relocate / English / DevOps
 - **Date:** YYYY-MM-DD
 - **Serves this goal by:**
 

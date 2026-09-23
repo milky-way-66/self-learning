@@ -14,10 +14,9 @@ Current goals (look only after you try from memory): see `goal.md` → `goals/<s
 
 Restate each current goal without looking at `goal.md` / `goals/`. Then look. If they do not match, say so.
 
-- **DevOps:**
-- **English:**
-- **Business domain:**
 - **Relocate:**
+- **English:**
+- **DevOps:**
 - **Any other goal I treated as real this week, unofficially:**
 
 >
@@ -27,10 +26,9 @@ Restate each current goal without looking at `goal.md` / `goals/`. Then look. If
 
 Facts. What I read, wrote, built, skipped. Group by goal.
 
-- **DevOps:**
-- **English:**
-- **Business domain:**
 - **Relocate:**
+- **English:**
+- **DevOps:**
 - **Neither:**
 
 
@@ -38,10 +36,9 @@ Facts. What I read, wrote, built, skipped. Group by goal.
 
 Point at files in `work/`, or write: nothing did.
 
-- **DevOps:**
-- **English:**
-- **Business domain:**
 - **Relocate:**
+- **English:**
+- **DevOps:**
 
 
 ## 4. Fake progress
@@ -58,15 +55,14 @@ About me, not about the todo list.
 
 If I cannot explain it simply, I did not learn it yet.
 
-- **DevOps:**
-- **English:**
-- **Business domain:**
 - **Relocate:**
+- **English:**
+- **DevOps:**
 
 
 ## 7. Are these still the right goals?
 
-**DevOps**
+**Relocate**
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
@@ -74,11 +70,7 @@ If I cannot explain it simply, I did not learn it yet.
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
-**Business domain**
-- [ ] Yes — keep it.
-- [ ] No — it is clearly wrong.
-
-**Relocate**
+**DevOps**
 - [ ] Yes — keep it.
 - [ ] No — it is clearly wrong.
 
