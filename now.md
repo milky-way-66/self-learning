@@ -36,3 +36,4 @@ Not a plan. At most 5. Drop freely. Sunday may replace all of these.
 - **Time:** at least 1–2 hours a day on the essay. Saturday and Sunday are longer: the Handbook note above.
 - **The document tool** is the interview story in that essay. Other sessions do not have to be more work on it.
 - **Conditions** live in [`goals/relocate.md`](goals/relocate.md). The week does not carry a plan past Sunday.
+- **After an essay:** publish a post on https://dev.to/milkyway66. First one is Lean (2026-09-24): https://dev.to/milkyway66/lean-and-how-it-relate-to-it-2lgi. Sunday decides whether this is a doing rule.

@@ -3,6 +3,7 @@
 - **Goal:** DevOps
 - **Date:** 2026-09-13
 - **Serves this goal by:** Define what Lean is and how it applies to IT.
+- **Published:** 2026-09-24 — https://dev.to/milkyway66/lean-and-how-it-relate-to-it-2lgi
 
 Lean is a way of thinking: deliver value to the customer with less waste, by improving the system on purpose. That matters to us because software work is the same: we turn an idea into a running service that brings value to the customer. This page will cover the core idea of Lean through five questions, then how it applies to IT via flow, a feedback loop, and learning from failure.
 
